@@ -15,7 +15,7 @@ main:
   #  url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://github.com/yakufl
         
   - title: "Blog Posts"
     url: /year-archive/
