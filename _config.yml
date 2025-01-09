@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yaku"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yaku Fernandez-Landa"
 description              : &description "personal description"
-url                      : https://yakufl.github.io/yaku # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yakufl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/yakufl/yaku/"
 
@@ -22,13 +22,13 @@ repository               : "https://github.com/yakufl/yaku/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yaku"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Geneva-CH"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yaku@ik.me" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "yaku-pe.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
