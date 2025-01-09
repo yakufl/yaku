@@ -12,7 +12,7 @@ title                    : "Yaku"
 title_separator          : "-"
 name                     : &name "Yaku Fernandez-Landa"
 description              : &description "personal description"
-url                      : https://yakufl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yakufl.github.io/yaku # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/yakufl/yaku/"
 
