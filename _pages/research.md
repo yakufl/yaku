@@ -14,10 +14,10 @@ author_profile: true
 
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
 
-"Productive Capabilities in the European North-South Divide: *A structural view of trade patterns in Germany, Italy and Spain between 1995 and 2018*"
+- "Productive Capabilities in the European North-South Divide: *A structural view of trade patterns in Germany, Italy and Spain between 1995 and 2018*"
 
-"The Latin American thought on sustainability: *A forgotten legacy*" 
+- "The Latin American thought on sustainability: *A forgotten legacy*" 
 
-"Envisioning Democratic Planning through Computational Simulation"
+- "Envisioning Democratic Planning through Computational Simulation"
 
 
