@@ -16,8 +16,8 @@ author_profile: true
 
 "Productive Capabilities in the European North-South Divide: *A structural view of trade patterns in Germany, Italy and Spain between 1995 and 2018*"
 
-"Measuring workers' power across countries: *A theoretical approach and a empirical application *" 
+"The Latin American thought on sustainability: *A forgotten legacy*" 
 
-"Microeconomic foundations of complexity: Firms, competition and innovation in Schumpeter, Penrose and Steindl"
+"Envisioning Democratic Planning through Computational Simulation"
 
 
