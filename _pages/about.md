@@ -13,7 +13,7 @@ My name is Yaku Fernandez-Landa. I am an _independent researcher_ with completed
 
 My area of interest resides at the crossroads of productivity, bussines dynamics, and social metabolism. I am well-versed in heterodox approaches such as Classical Political Economy, post-Keynesianism, and Evolutionary Economics. Methodologically, I evaluate the economy as a complex structure of interdependent sectors, adopting what can be termed a meso perspective in Economics. To achieve this, I adopt computational simulations and economic history as the main tools.
 
-I believe that crowd collaboration and enthusiast people can achieve amazing results. That's why I'm a contributor to Wikipedia (in Spanish and English) and participate in projects such as the (https://www.indep.network)[International Network for Democratic Planning].
+I believe that crowd collaboration and enthusiast people can achieve amazing results. That's why I'm a contributor to Wikipedia (in Spanish and English) and participate in projects such as the [International Network for Democratic Planning](https://www.indep.network).
 
 I am originally from Peru. Currently based in Geneva, Switzerland
 
