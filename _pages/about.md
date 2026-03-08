@@ -22,6 +22,7 @@ Recently, my research focuses on the following topics:
 - Induced technical change at the sectoral level
 - Political Economy of socio-ecological transition
 - Social Provisioning Systems
+- Policy space and economic development
 
 
 
