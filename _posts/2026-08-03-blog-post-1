@@ -1,0 +1,18 @@
+---
+title: 'The nobel of influence in Economics or Why theories fail'
+date: 2026-08-03
+permalink: /posts/2026/03/blog-post-1/
+tags:
+  - SFC
+  - macro-modeling
+  - Post-Keynesianism
+---
+
+This is a graphical interface coded with Python to simulate Stock-Flow Consistent models.
+
+After the great recession, the Stock-Flow Consistent approach (SFC) has been increasingly used as an alternative to the Dynamic Stochastic General Equilibrium models (DSGE). Our project consists in creating a program that serves as a step-by-step guide for non-economists, allowing to visualize and get a quick, accurate and simple approximation of simulated exogenous shocks in SFC models. To do that, we implement our program in the Python programming language taking the equations and intuition described on Godley Lavoie (2007) specifically, chapters 3 and 4. Explicitly, the two mean models we replicate are called Simple with Expectations (SIMEX) and Portfolio Choice with Expectations (PCEX). The types of simulations that our application can achieve include fiscal policy (change in public expending), monetary policy (change in interest rate) and agents behaviour parameters (change for instance in marginal propensity to consume). Our main result consists in a program that enables to simulate external shocks in a friendly environment. Moreover, we show that Python can be used as a complement for educational purposes.
+
+To see the repository [click here](https://github.com/yakufl/SFC-Simulation)
+
+
+------
