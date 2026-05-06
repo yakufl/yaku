@@ -19,6 +19,7 @@ I am originally from Peru. Currently based in Geneva, Switzerland
 
 Recently, my research focuses on the following topics:
 
+- The accounting view in political economy
 - Induced technical change at the sectoral level
 - Political Economy of socio-ecological transition
 - Social Provisioning Systems
